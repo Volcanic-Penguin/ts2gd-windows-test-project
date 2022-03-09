@@ -15,7 +15,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="Veploria"
+config/name="TS2GD Test Project"
 run/main_scene="res://scenes/world.tscn"
 config/icon="res://icon.png"
 
